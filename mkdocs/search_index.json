@@ -52,13 +52,28 @@
         },
         {
             "location": "/Deutsch/bahnlinien/",
-            "text": "Die Eisenbahn spielt auf dem Server eine wichtige Rolle, weil man sich eben in der Regel nicht teleportieren soll/kann. Du kannst eine Bahnlinie beantragen, in dem Du einen Bahnmitarbeiter, oder das Team ansprichst. Zum Beispiel wenn Du eine Stadt in Planung hast, kannst Du sogar eine S-Bahn, oder einen ganzen gro\u00dfen Verkehrsknotenpunkt bauen, damit mehr Leute in deine Stadt kommen. Bahnlinien k\u00f6nnen in der Regel nur zweigleisig laufen, und kosten nur der Bau einer Bahnlinie kostet Geld. Bahnlinien werden in der Regel oberirdisch gebaut.\n\n\nPreise:\n\n\nGrundgeb\u00fchr:\n 20.000 Minegeld\n\n\n|   | Oberirdisch:  | Unterirdisch/Tunnel: | Br\u00fccke: | \n\n|---|---|---|---|---|\n|\npro 100 m Strecke:\n| 5.000  | 10.000  | 7.000  | \n\n| \npro Station:\n | 10.000  | 20.000  | 15.000  |   \n\n\nAufgrund von Rollenspiel-Elementen ist es nicht m\u00f6glich, solange man kein Builder ist, die Strecke selber zu bauen. Wenn man selber den Auftrag als Builder hat, bekommt man auch keine Verg\u00fcnstigungen, sondern eben nur sein normales Gehalt.\n\n\nDer Bau:\n\n\nDer Bau ist in der Regel auf die L\u00e4nge von einem Monat beschr\u00e4nkt. Die Stationen darf man, falls gew\u00fcnscht, selber gestalten. Jeder Zwischenhalt kostet braucht zwei Gleise, jeder Endbahnhof ist auch mit einem Gleis zufrieden. Selbstverst\u00e4ndlich kann/soll die Bahnlinie an einen Banhhof angeschlossen werden, sofern der Platz ausreichend ist, und der Besitzer damit einverstanden ist. Ein mehrst\u00f6ckiger Bahnhof mit verschiedenen Linien ist auch m\u00f6glich ;)\n\n\nDer Besitz:\n\n\nDu bist jeglich der Besitzer der Bahnlinie in deinem Stadt-Gebiet und deines erstellten Bahnhofes(In deinem Territorium). Du hast kein Mitsprache-Recht, wenn auf der Bahnlinie ein Zwischen-Bahnhof mit weiteren Anschl\u00fcssen zum Beispiel gebaut wird.",
+            "text": "Die Eisenbahn spielt auf dem Server eine wichtige Rolle, weil man sich eben in der Regel nicht teleportieren soll/kann. Du kannst eine Bahnlinie beantragen, in dem Du einen Bahnmitarbeiter, oder das Team ansprichst. Zum Beispiel wenn Du eine Stadt in Planung hast, kannst Du sogar eine S-Bahn, oder einen ganzen gro\u00dfen Verkehrsknotenpunkt bauen, damit mehr Leute in deine Stadt kommen. Bahnlinien k\u00f6nnen in der Regel nur zweigleisig laufen, und kosten nur der Bau einer Bahnlinie kostet Geld. Bahnlinien werden in der Regel oberirdisch gebaut.\n\n\nPreise:\n\n\nGrundgeb\u00fchr:\n 20.000 Minegeld\n\n\nOberirdisch:\n\n\n\n\npro 100 m Strecke: 5.000\n\n\npro Station: 10.000\n\n\n\n\nUnterirdisch/Tunnel:\n\n\n\n\npro 100 m Strecke: 10.000\n\n\npro Station: 20.000\n\n\n\n\nBr\u00fccke:\n\n\n\n\npro 100 m Strecke: 7.000\n\n\npro Station: 15.000\n\n\n\n\nAufgrund von Rollenspiel-Elementen ist es nicht m\u00f6glich, solange man kein Builder ist, die Strecke selber zu bauen. Wenn man selber den Auftrag als Builder hat, bekommt man auch keine Verg\u00fcnstigungen, sondern eben nur sein normales Gehalt.\n\n\nDer Bau:\n\n\nDer Bau ist in der Regel auf die L\u00e4nge von einem Monat beschr\u00e4nkt. Die Stationen darf man, falls gew\u00fcnscht, selber gestalten. Jeder Zwischenhalt kostet braucht zwei Gleise, jeder Endbahnhof ist auch mit einem Gleis zufrieden. Selbstverst\u00e4ndlich kann/soll die Bahnlinie an einen Banhhof angeschlossen werden, sofern der Platz ausreichend ist, und der Besitzer damit einverstanden ist. Ein mehrst\u00f6ckiger Bahnhof mit verschiedenen Linien ist auch m\u00f6glich ;)\n\n\nDer Besitz:\n\n\nDu bist jeglich der Besitzer der Bahnlinie in deinem Stadt-Gebiet und deines erstellten Bahnhofes(In deinem Territorium). Du hast kein Mitsprache-Recht, wenn auf der Bahnlinie ein Zwischen-Bahnhof mit weiteren Anschl\u00fcssen zum Beispiel gebaut wird.",
             "title": "Bahnlinien"
         },
         {
             "location": "/Deutsch/bahnlinien/#preise",
-            "text": "Grundgeb\u00fchr:  20.000 Minegeld  |   | Oberirdisch:  | Unterirdisch/Tunnel: | Br\u00fccke: |  \n|---|---|---|---|---|\n| pro 100 m Strecke: | 5.000  | 10.000  | 7.000  |  \n|  pro Station:  | 10.000  | 20.000  | 15.000  |     Aufgrund von Rollenspiel-Elementen ist es nicht m\u00f6glich, solange man kein Builder ist, die Strecke selber zu bauen. Wenn man selber den Auftrag als Builder hat, bekommt man auch keine Verg\u00fcnstigungen, sondern eben nur sein normales Gehalt.",
+            "text": "Grundgeb\u00fchr:  20.000 Minegeld",
             "title": "Preise:"
+        },
+        {
+            "location": "/Deutsch/bahnlinien/#oberirdisch",
+            "text": "pro 100 m Strecke: 5.000  pro Station: 10.000",
+            "title": "Oberirdisch:"
+        },
+        {
+            "location": "/Deutsch/bahnlinien/#unterirdischtunnel",
+            "text": "pro 100 m Strecke: 10.000  pro Station: 20.000",
+            "title": "Unterirdisch/Tunnel:"
+        },
+        {
+            "location": "/Deutsch/bahnlinien/#brucke",
+            "text": "pro 100 m Strecke: 7.000  pro Station: 15.000   Aufgrund von Rollenspiel-Elementen ist es nicht m\u00f6glich, solange man kein Builder ist, die Strecke selber zu bauen. Wenn man selber den Auftrag als Builder hat, bekommt man auch keine Verg\u00fcnstigungen, sondern eben nur sein normales Gehalt.",
+            "title": "Br\u00fccke:"
         },
         {
             "location": "/Deutsch/bahnlinien/#der-bau",
@@ -412,13 +427,28 @@
         },
         {
             "location": "/English/bahnlinien/",
-            "text": "The railroad plays an important role on the server because you should not be able to teleport normally. You can apply for a railway line by calling on a railway employee or the team. For example, if you have a city in planning, you can even build a suburban train, or a whole main station, to get more people into your city. Rail lines can usually only run double track, and only the construction of a railway line costs money. Railway lines are usually built above ground.\n\n\nPrices:\n\n\n Basic fee: \n 20,000 coins\n\n\n| | Above ground: | Underground / Tunnel: | Bridge: |\n| --- | --- | --- | --- | --- |\n| \n per 100 m route: \n | 5,000 | 10,000 | 7,000 |\n| \n per station: \n | 10,000 | 20,000 | 15,000 |\n\n\nDue to RPG elements it is not possible, as long as you are not a builder, to build the track yourself. If you own the job as a builder, you get no perks, but just your normal salary.\n\n\nConstruction:\n\n\nThe construction is usually limited to the time of one month. You may design the stations on your own, if desired. Each intermediate stop costs two tracks, each end station is also satisfied with one track only. Of course, the railway line can / should be connected to another existing station, if the space is sufficient, and the owner agrees. A multi-level station with different lines is also possible ;)\n\n\nPossession:\n\n\nYou are the owner of the railway line in your city area and your created station (in your territory). You have no right, if an intermediate station with further connections for example is built on \"your\" the railway line.",
+            "text": "The railroad plays an important role on the server because you should not be able to teleport normally. You can apply for a railway line by calling on a railway employee or the team. For example, if you have a city in planning, you can even build a suburban train, or a whole main station, to get more people into your city. Rail lines can usually only run double track, and only the construction of a railway line costs money. Railway lines are usually built above ground.\n\n\nPrices:\n\n\nBasic fee:\n 20,000 coins\n\n\nAbove Ground:\n\n\n\n\nper 100 m route: 5.000\n\n\nper station: 10.000\n\n\n\n\nUnderground/Tunnel:\n\n\n\n\nper 100 m route: 10.000\n\n\nper station: 20.000\n\n\n\n\nBridge:\n\n\n\n\nper 100 m route: 7.000\n\n\nper station: 15.000\n\n\n\n\nDue to RPG elements it is not possible, as long as you are not a builder, to build the track yourself. If you own the job as a builder, you get no perks, but just your normal salary.\n\n\nConstruction:\n\n\nThe construction is usually limited to the time of one month. You may design the stations on your own, if desired. Each intermediate stop costs two tracks, each end station is also satisfied with one track only. Of course, the railway line can / should be connected to another existing station, if the space is sufficient, and the owner agrees. A multi-level station with different lines is also possible ;)\n\n\nPossession:\n\n\nYou are the owner of the railway line in your city area and your created station (in your territory). You have no right, if an intermediate station with further connections for example is built on \"your\" the railway line.",
             "title": "Railway lines"
         },
         {
             "location": "/English/bahnlinien/#prices",
-            "text": "Basic fee:   20,000 coins  | | Above ground: | Underground / Tunnel: | Bridge: |\n| --- | --- | --- | --- | --- |\n|   per 100 m route:   | 5,000 | 10,000 | 7,000 |\n|   per station:   | 10,000 | 20,000 | 15,000 |  Due to RPG elements it is not possible, as long as you are not a builder, to build the track yourself. If you own the job as a builder, you get no perks, but just your normal salary.",
+            "text": "Basic fee:  20,000 coins",
             "title": "Prices:"
+        },
+        {
+            "location": "/English/bahnlinien/#above-ground",
+            "text": "per 100 m route: 5.000  per station: 10.000",
+            "title": "Above Ground:"
+        },
+        {
+            "location": "/English/bahnlinien/#undergroundtunnel",
+            "text": "per 100 m route: 10.000  per station: 20.000",
+            "title": "Underground/Tunnel:"
+        },
+        {
+            "location": "/English/bahnlinien/#bridge",
+            "text": "per 100 m route: 7.000  per station: 15.000   Due to RPG elements it is not possible, as long as you are not a builder, to build the track yourself. If you own the job as a builder, you get no perks, but just your normal salary.",
+            "title": "Bridge:"
         },
         {
             "location": "/English/bahnlinien/#construction",
