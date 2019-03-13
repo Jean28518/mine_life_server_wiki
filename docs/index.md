@@ -1,21 +1,13 @@
-# Welcome to MkDocs
+## Deutsch:
+Willkommen auf dem Server-Wiki!
+Links findest Du viele unterschiedliche Artikel, die veschiedene Mechaniken, aber auch verschiedene Anleitungen für Ingame-Aktionen des Servers beschreiben. Stöbern erlaubt ;)
 
-This is a test site hosted on [GitLab Pages](https://pages.gitlab.io). You can
-[browse its source code](https://gitlab.com/pages/mkdocs), fork it and start
-using it on your projects.
+Falls Du selber einen Artikel schreiben willst, oder einen Fehler findest, dann melde Dich gerne bei uns. Dies kannst Du zum Beispiel mit dem Feedback-Briefkasten im Gebäude neben dem Spawn machen. Vielen Dank!
 
-For full documentation visit [mkdocs.org](http://mkdocs.org).
+## English:
+Welcome to the server wiki!
+On the left you will find many different articles describing different mechanics as well as different instructions for in-game actions of the server.
 
-## Commands
+If you want to write an article yourself, or found a mistake, then feel free to contact us. For example, you can do this with the feedback mailbox in the building next to the spawn. Many Thanks!
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+All english articles where translated by google translate. So please be lenient with us ;)

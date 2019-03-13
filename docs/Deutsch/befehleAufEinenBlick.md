@@ -1,0 +1,11 @@
+- `ads_language <de/en>` Sprache der Server-Nachrichten einstellen
+- `job` Hilfe über Jobs anzeigen
+- `job acquire <job>` Job anfangen
+- `job info` Seinen jetzigen Job anzeigen
+- `last-login <SpielerName>` Den letzten Login eines Spieler anzeigen
+- `licenses_see` Seine Lizenzen anzeigen
+- `mail` Das E-Mail-Fenster aufrufen
+- `mmo_activate` In die Spieler-Welt gelangen
+- `msg <SpielerName> <Nachricht>` Jemanden eine private Nachricht schicken
+- `spawn` Teleportiere Dich zum Spawn, wenn Du irgendwo feststeckst. Funktioniert nicht unter y = -50.
+- `wiki` Zeige die Adresse zum Wiki hier.
