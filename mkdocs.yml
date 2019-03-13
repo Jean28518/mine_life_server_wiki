@@ -12,7 +12,7 @@ theme:
         - yaml
         - django
 
-nav:
+pages:
     - Home: index.md
    
 markdown_extensions:
