@@ -1,0 +1,7 @@
+First, you should get yourself a shelter, maybe in a hotel (if any exists at time), or build your own house in the Build Region. It is recommended to build your house near existing infrastructure with any existing railway line, or road for horses, because you will not teleport usually, but at the beginning you will go either by train, horse, or by foot. If you ever have enough money, you can either buy an airship or a train line;)
+
+Then maybe it would be time to think about how you might make money;) You can take on one of the four jobs and either grow plants, mine, keep animals, or build resources like stone, wood, glass, etc. to produce. You can sell your products in the Adminshop, or of course to other players. But that's just a possibility, you can also start a business, or implement a new business idea. The server team is happy to support your business idea as much as possible. Whatch on "Economy" to get more information about getting some money.
+
+What you can also do (partly by the way), is to look for construction contracts, which are also sometimes like to be provided by the server, or to start a career as a drug dealer, hire the police, hiring the airship sales, or look for other jobs. (See "Jobs" for more information) A possible contact point would be the blackboard at the spawn, where you can spend your work for a certain sum, or watch for offers.
+
+If you have a certain financial reserve then you can do what you have always wanted to do, start a city, build a business empire, or implement your own crazy idea ;)
