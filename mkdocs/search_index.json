@@ -1,0 +1,459 @@
+{
+    "docs": [
+        {
+            "location": "/",
+            "text": "Deutsch:\n\n\nWillkommen auf dem Server-Wiki!\nLinks findest Du viele unterschiedliche Artikel, die veschiedene Mechaniken, aber auch verschiedene Anleitungen f\u00fcr Ingame-Aktionen des Servers beschreiben. St\u00f6bern erlaubt ;)\n\n\nFalls Du selber einen Artikel schreiben willst, oder einen Fehler findest, dann melde Dich gerne bei uns. Dies kannst Du zum Beispiel mit dem Feedback-Briefkasten im Geb\u00e4ude neben dem Spawn machen. Vielen Dank!\n\n\nEnglish:\n\n\nWelcome to the server wiki!\nOn the left you will find many different articles describing different mechanics as well as different instructions for in-game actions of the server.\n\n\nIf you want to write an article yourself, or found a mistake, then feel free to contact us. For example, you can do this with the feedback mailbox in the building next to the spawn. Many Thanks!\n\n\nAll english articles where translated by google translate. So please be lenient with us ;)",
+            "title": "Home"
+        },
+        {
+            "location": "/#deutsch",
+            "text": "Willkommen auf dem Server-Wiki!\nLinks findest Du viele unterschiedliche Artikel, die veschiedene Mechaniken, aber auch verschiedene Anleitungen f\u00fcr Ingame-Aktionen des Servers beschreiben. St\u00f6bern erlaubt ;)  Falls Du selber einen Artikel schreiben willst, oder einen Fehler findest, dann melde Dich gerne bei uns. Dies kannst Du zum Beispiel mit dem Feedback-Briefkasten im Geb\u00e4ude neben dem Spawn machen. Vielen Dank!",
+            "title": "Deutsch:"
+        },
+        {
+            "location": "/#english",
+            "text": "Welcome to the server wiki!\nOn the left you will find many different articles describing different mechanics as well as different instructions for in-game actions of the server.  If you want to write an article yourself, or found a mistake, then feel free to contact us. For example, you can do this with the feedback mailbox in the building next to the spawn. Many Thanks!  All english articles where translated by google translate. So please be lenient with us ;)",
+            "title": "English:"
+        },
+        {
+            "location": "/Deutsch/areas/",
+            "text": "Areas ist ein m\u00e4chtiger Mod, mit dem man reglen kann, wer auf einem Gebiet bauen darf, und wer nicht.\n\n\nHinweise:\n\n\n\n\nWenn man ein Gebiet unter y = -50 sch\u00fctzen will, dann muss das mit dem Server-Team abgesprochen sein.\n\n\nJeder Spieler kann 4 Gebiete zu einer maximalen Gr\u00f6\u00dfe von 64x64x128 sichern. Ben\u00f6tigt man mehr, bitte das Server-Team dazu fragen.\n\n\nNur Gebiete in der Build-Welt d\u00fcrfen gesch\u00fctzt werden.\n\n\n\n\nGebiet sch\u00fctzen:\n\n\n\n\ncrafte Dir Marker (siehe das in einem Crafting-Buch nach)\n\n\nplatziere die Marker in den gegen\u00fcberliegenden Ecken, und rechtsklicke dann einen von ihnen. Dann kannst Du Gebiet sch\u00fctzen. Das kostet Dich nichts.\n\n\n\n\nOder:\n\n\n\n\n/area_pos1\n, \n/area_pos2\n, \n/protect <NameDesGebietes>\n\n\n\n\nJemanden zu seinem Gebiet hinzuf\u00fcgen:\n\n\n\n\nDu kannst optional das Gebiet mit den Markern definieren(nicht rechtsklicken), in dem der andere Spieler in deinem Gebiet bauen darf. Tust Du das nicht, dann wird angenommen, dass der Spieler auf dein gesamtes Gebiet zugreifen kann.\n\n\n/add_owner <IdDes\"Alten\"Gebietes> <AndererSpieler> <NameDesNeuenGebietes>\n\n\n\n\nDen Besitzer wechseln:\n\n\n\n\nDas kann nur von dem \"voherigen\" Besizer gemacht werden: \n/change_owner <IdDesGebietes> <NeuerBesitzer>\n\n\n\n\nGebiet l\u00f6schen:\n\n\n/remove_area <ID>\n\n\n\n\nF\u00fcr weitere Befehle siehe: https://github.com/ShadowNinja/areas",
+            "title": "Areas"
+        },
+        {
+            "location": "/Deutsch/areas/#hinweise",
+            "text": "Wenn man ein Gebiet unter y = -50 sch\u00fctzen will, dann muss das mit dem Server-Team abgesprochen sein.  Jeder Spieler kann 4 Gebiete zu einer maximalen Gr\u00f6\u00dfe von 64x64x128 sichern. Ben\u00f6tigt man mehr, bitte das Server-Team dazu fragen.  Nur Gebiete in der Build-Welt d\u00fcrfen gesch\u00fctzt werden.",
+            "title": "Hinweise:"
+        },
+        {
+            "location": "/Deutsch/areas/#gebiet-schutzen",
+            "text": "crafte Dir Marker (siehe das in einem Crafting-Buch nach)  platziere die Marker in den gegen\u00fcberliegenden Ecken, und rechtsklicke dann einen von ihnen. Dann kannst Du Gebiet sch\u00fctzen. Das kostet Dich nichts.",
+            "title": "Gebiet sch\u00fctzen:"
+        },
+        {
+            "location": "/Deutsch/areas/#oder",
+            "text": "/area_pos1 ,  /area_pos2 ,  /protect <NameDesGebietes>",
+            "title": "Oder:"
+        },
+        {
+            "location": "/Deutsch/areas/#jemanden-zu-seinem-gebiet-hinzufugen",
+            "text": "Du kannst optional das Gebiet mit den Markern definieren(nicht rechtsklicken), in dem der andere Spieler in deinem Gebiet bauen darf. Tust Du das nicht, dann wird angenommen, dass der Spieler auf dein gesamtes Gebiet zugreifen kann.  /add_owner <IdDes\"Alten\"Gebietes> <AndererSpieler> <NameDesNeuenGebietes>",
+            "title": "Jemanden zu seinem Gebiet hinzuf\u00fcgen:"
+        },
+        {
+            "location": "/Deutsch/areas/#den-besitzer-wechseln",
+            "text": "Das kann nur von dem \"voherigen\" Besizer gemacht werden:  /change_owner <IdDesGebietes> <NeuerBesitzer>",
+            "title": "Den Besitzer wechseln:"
+        },
+        {
+            "location": "/Deutsch/areas/#gebiet-loschen",
+            "text": "/remove_area <ID>   F\u00fcr weitere Befehle siehe: https://github.com/ShadowNinja/areas",
+            "title": "Gebiet l\u00f6schen:"
+        },
+        {
+            "location": "/Deutsch/bahnlinien/",
+            "text": "Die Eisenbahn spielt auf dem Server eine wichtige Rolle, weil man sich eben in der Regel nicht teleportieren soll/kann. Du kannst eine Bahnlinie beantragen, in dem Du einen Bahnmitarbeiter, oder das Team ansprichst. Zum Beispiel wenn Du eine Stadt in Planung hast, kannst Du sogar eine S-Bahn, oder einen ganzen gro\u00dfen Verkehrsknotenpunkt bauen, damit mehr Leute in deine Stadt kommen. Bahnlinien k\u00f6nnen in der Regel nur zweigleisig laufen, und kosten nur der Bau einer Bahnlinie kostet Geld. Bahnlinien werden in der Regel oberirdisch gebaut.\n\n\nPreise:\n\n\nGrundgeb\u00fchr:\n 20.000 Minegeld\n\n\n|   | Oberirdisch:  | Unterirdisch/Tunnel: | Br\u00fccke: | \n\n|---|---|---|---|---|\n|\npro 100 m Strecke:\n| 5.000  | 10.000  | 7.000  | \n\n| \npro Station:\n | 10.000  | 20.000  | 15.000  |   \n\n\nAufgrund von Rollenspiel-Elementen ist es nicht m\u00f6glich, solange man kein Builder ist, die Strecke selber zu bauen. Wenn man selber den Auftrag als Builder hat, bekommt man auch keine Verg\u00fcnstigungen, sondern eben nur sein normales Gehalt.\n\n\nDer Bau:\n\n\nDer Bau ist in der Regel auf die L\u00e4nge von einem Monat beschr\u00e4nkt. Die Stationen darf man, falls gew\u00fcnscht, selber gestalten. Jeder Zwischenhalt kostet braucht zwei Gleise, jeder Endbahnhof ist auch mit einem Gleis zufrieden. Selbstverst\u00e4ndlich kann/soll die Bahnlinie an einen Banhhof angeschlossen werden, sofern der Platz ausreichend ist, und der Besitzer damit einverstanden ist. Ein mehrst\u00f6ckiger Bahnhof mit verschiedenen Linien ist auch m\u00f6glich ;)\n\n\nDer Besitz:\n\n\nDu bist jeglich der Besitzer der Bahnlinie in deinem Stadt-Gebiet und deines erstellten Bahnhofes(In deinem Territorium). Du hast kein Mitsprache-Recht, wenn auf der Bahnlinie ein Zwischen-Bahnhof mit weiteren Anschl\u00fcssen zum Beispiel gebaut wird.",
+            "title": "Bahnlinien"
+        },
+        {
+            "location": "/Deutsch/bahnlinien/#preise",
+            "text": "Grundgeb\u00fchr:  20.000 Minegeld  |   | Oberirdisch:  | Unterirdisch/Tunnel: | Br\u00fccke: |  \n|---|---|---|---|---|\n| pro 100 m Strecke: | 5.000  | 10.000  | 7.000  |  \n|  pro Station:  | 10.000  | 20.000  | 15.000  |     Aufgrund von Rollenspiel-Elementen ist es nicht m\u00f6glich, solange man kein Builder ist, die Strecke selber zu bauen. Wenn man selber den Auftrag als Builder hat, bekommt man auch keine Verg\u00fcnstigungen, sondern eben nur sein normales Gehalt.",
+            "title": "Preise:"
+        },
+        {
+            "location": "/Deutsch/bahnlinien/#der-bau",
+            "text": "Der Bau ist in der Regel auf die L\u00e4nge von einem Monat beschr\u00e4nkt. Die Stationen darf man, falls gew\u00fcnscht, selber gestalten. Jeder Zwischenhalt kostet braucht zwei Gleise, jeder Endbahnhof ist auch mit einem Gleis zufrieden. Selbstverst\u00e4ndlich kann/soll die Bahnlinie an einen Banhhof angeschlossen werden, sofern der Platz ausreichend ist, und der Besitzer damit einverstanden ist. Ein mehrst\u00f6ckiger Bahnhof mit verschiedenen Linien ist auch m\u00f6glich ;)",
+            "title": "Der Bau:"
+        },
+        {
+            "location": "/Deutsch/bahnlinien/#der-besitz",
+            "text": "Du bist jeglich der Besitzer der Bahnlinie in deinem Stadt-Gebiet und deines erstellten Bahnhofes(In deinem Territorium). Du hast kein Mitsprache-Recht, wenn auf der Bahnlinie ein Zwischen-Bahnhof mit weiteren Anschl\u00fcssen zum Beispiel gebaut wird.",
+            "title": "Der Besitz:"
+        },
+        {
+            "location": "/Deutsch/befehleAufEinenBlick/",
+            "text": "ads_language <de/en>\n Sprache der Server-Nachrichten einstellen\n\n\njob\n Hilfe \u00fcber Jobs anzeigen\n\n\njob acquire <job>\n Job anfangen\n\n\njob info\n Seinen jetzigen Job anzeigen\n\n\nlast-login <SpielerName>\n Den letzten Login eines Spieler anzeigen\n\n\nlicenses_see\n Seine Lizenzen anzeigen\n\n\nmail\n Das E-Mail-Fenster aufrufen\n\n\nmmo_activate\n In die Spieler-Welt gelangen\n\n\nmsg <SpielerName> <Nachricht>\n Jemanden eine private Nachricht schicken\n\n\nspawn\n Teleportiere Dich zum Spawn, wenn Du irgendwo feststeckst. Funktioniert nicht unter y = -50.\n\n\nwiki\n Zeige die Adresse zum Wiki hier.",
+            "title": "Befehle auf einen Blick"
+        },
+        {
+            "location": "/Deutsch/inaktivitaet/",
+            "text": "Ein Spieler gilt als inaktiv, wenn er 3 Monate lange nicht mehr auf dem Server war. Das kann man mit \n/last-login <SpierlerName>\n nachverfolgen.\n\n\nWenn ein Spieler inaktiv ist, hat er keinen Anspruch mehr auf seinen Besitz. Du als Spieler kannst gerne das Grundst\u00fcck eines Inaktiven Spielers melden, und wenn es kein gro\u00dfartiges Bauwerk ist, dann wird das Grundst\u00fcck mit allen Truhen entfernt.\n\n\nSollte es sich um ein gro\u00dfartiges Bauwerk handeln, dann geht der Besitz zum Server \u00fcber. Vielleicht wird es dann versteigert, oder einfach auf dem Server verewigt. Das wird aber die Entscheidung des Server-Teams sein ;)",
+            "title": "Inaktivitaet"
+        },
+        {
+            "location": "/Deutsch/jobs/",
+            "text": "Es gibt vier Jobs, die jeder machen kann. Allerdings kannst Du deinen Job nur alle 10 Stunden wechseln. Wenn Du eine Idee f\u00fcr einen weiteren Job hast, melde ihn uns gerne! Du kannst eigentlich alle Items bis auf das Monats-Angebot nur mit einem speziellen Job an den Adminshop verkaufen. Du musst sie nicht unbedingt dem Adminshop verkaufen, weil Du sicher deine Items f\u00fcr weitaus bessere Preise an Spieler verkaufen kannst.\nUm deinen jetzigen Job anzufragen, gebe \njob info\n ein\n\n\nMiner:\n\n\nDu bist die ganze Zeit in einer stickigen H\u00f6hle, oder in einem Minenschacht, und gr\u00e4bst Dich durch die Welt. Beachte dabei, dass Du dich ab einer H\u00f6he von y = -100 nicht mehr \u00fcber den Befehl /spawn zu Spawn teleportieren kannst. Das hei\u00dft, Du musst auch wieder zur\u00fcck finden ;) Das macht den Job etwas herausfordernder. Es lohnt aber auch sehr tief zu graben, da ab einer H\u00f6he von ungef\u00e4hr -2000 ein paar \u00dcberraschungen auf dich warten ;) (Kleiner Tipp, ab einer H\u00f6he von y=-16000 kommt nichts neues mehr. Wenn Du es einmal so weit nach unten geschafft hast, dann sind die H\u00f6hlen mehr als eine Goldgrube ;-)\n\njob acquire miner\n\n\nFarmer:\n\n\nWer wollte schon nicht mal ein sch\u00f6nes Leben auf dem Land f\u00fchren? Hier kannst Du es machen, und auch selber bauen! Ein paar Pflanzen lohnen sich, ein paar eher weniger, diese beim Adminshop zu verkaufen, Probieren geht \u00fcber Studieren! Am Anfang empfiehlt es sich sehr, auf die Mithril Scythe zu sparen, da sie den Alltag sehr vereinfacht. Au\u00dferdem lohnt es sich, Felder in der N\u00e4he von Bahnstrecken zu bauen, da dort h\u00e4ufiger Spieler vorbeifahren, und somit das Feld in der Zeit w\u00e4chst.\n\njob acquire farmer\n\n\nBuilder:\n\n\nHier streifst Du durch die Landschaften, und baust verschiedene Rohstoffe zum Bauen ab. Welche das genau sind schaust Du besser mal im Adminshop nach. Mit deinen F\u00e4higkeiten macht es nat\u00fcrlich mehr Sinn, Bauauftr\u00e4gen nach zu gehen, weil Du die Materialien vielleicht schon parat hast, oder zumindest die Tricks wei\u00dft, wie man an ein bestimmtes Item leicht kommt.\n\njob acquire buider\n\n\nHunter:\n\n\nHier z\u00fcchtest Du veschiedene Tiere, und schlachtest sie. Die Erzeugnisse kannst Du auch wieder im Adminshop verkaufen. Selbstverst\u00e4ndlich kannst Du sie auch anderen Spielern verkaufen, aber hier wird wahrscheinlich die Kaufbereitschaft wahrscheinlich nicht so gro\u00df sein.\n\njob acquire hunter\n\n\nWeitere Jobs:\n\n\nDiese Jobs kannst Du zus\u00e4tzlich zu den anderen machen, welche teilweise noch nicht implementiert sind. Aber auch von diesen Jobs kannst Du nur einen gleichzeitig machen. Au\u00dferdem solltest Du schon auf dem Server etwas erreicht haben ;)\n\n\nBahnmitarbeiter (noch nicht implementiert):\n\n\nSie k\u00fcmmern sich, dass alles l\u00e4uft, melden gegebenenfalls Fehler, und planen Strecken, bleiben mit den Buildern im Kontakt, und kriegen auch bevorzugt Bauauftr\u00e4ge, wenn es um neue Strecken geht, und sie schon lange dabei sind.\n\n\nFlugschiff Vertrieb (noch nich implementiert):\n\n\nDu sollst den angehenden Flugschiff-Piloten Unterricht geben, Pr\u00fcfungen ausstellen, und am ende Lizenzen geben.\n\n\nPolizist (noch nich implementiert):\n\n\nAls Polizist, sperrst Du Leute ein, k\u00fcmmerst Dich um Griefing-F\u00e4lle, sorgst f\u00fcr Recht und Ordnung, kontrollierst, ob Leute Fahrkarten gekauft haben, und sp\u00fcrst Drogen-Dealer auf.\n\n\nStadt-Besitzer\n\n\nDu bist der Besitzer einer eingetragenen Stadt, in welcher Du der B\u00fcrgermeister sein kannst. Zu weiteren Informationen siehe den St\u00e4dte Artikel.\n\n\nAndere:\n\n\nEs werden auch noch manchmal andere spezielle Mitarbeiter f\u00fcr bestimmte Sachen gebraucht, diese werden auch auf dem Job-Brett neben dem Spawn ausgeh\u00e4ngt. (Diese k\u00f6nnen nach Vereinbarung auch parallel zu anderen \"weiteren\" Jobs laufen.)\n\n\n\n\nSelbstverst\u00e4ndlich kannst zus\u00e4tzlich Du so viele Jobs von Spielern annehmen, wie Du magst.",
+            "title": "Jobs"
+        },
+        {
+            "location": "/Deutsch/jobs/#miner",
+            "text": "Du bist die ganze Zeit in einer stickigen H\u00f6hle, oder in einem Minenschacht, und gr\u00e4bst Dich durch die Welt. Beachte dabei, dass Du dich ab einer H\u00f6he von y = -100 nicht mehr \u00fcber den Befehl /spawn zu Spawn teleportieren kannst. Das hei\u00dft, Du musst auch wieder zur\u00fcck finden ;) Das macht den Job etwas herausfordernder. Es lohnt aber auch sehr tief zu graben, da ab einer H\u00f6he von ungef\u00e4hr -2000 ein paar \u00dcberraschungen auf dich warten ;) (Kleiner Tipp, ab einer H\u00f6he von y=-16000 kommt nichts neues mehr. Wenn Du es einmal so weit nach unten geschafft hast, dann sind die H\u00f6hlen mehr als eine Goldgrube ;-) job acquire miner",
+            "title": "Miner:"
+        },
+        {
+            "location": "/Deutsch/jobs/#farmer",
+            "text": "Wer wollte schon nicht mal ein sch\u00f6nes Leben auf dem Land f\u00fchren? Hier kannst Du es machen, und auch selber bauen! Ein paar Pflanzen lohnen sich, ein paar eher weniger, diese beim Adminshop zu verkaufen, Probieren geht \u00fcber Studieren! Am Anfang empfiehlt es sich sehr, auf die Mithril Scythe zu sparen, da sie den Alltag sehr vereinfacht. Au\u00dferdem lohnt es sich, Felder in der N\u00e4he von Bahnstrecken zu bauen, da dort h\u00e4ufiger Spieler vorbeifahren, und somit das Feld in der Zeit w\u00e4chst. job acquire farmer",
+            "title": "Farmer:"
+        },
+        {
+            "location": "/Deutsch/jobs/#builder",
+            "text": "Hier streifst Du durch die Landschaften, und baust verschiedene Rohstoffe zum Bauen ab. Welche das genau sind schaust Du besser mal im Adminshop nach. Mit deinen F\u00e4higkeiten macht es nat\u00fcrlich mehr Sinn, Bauauftr\u00e4gen nach zu gehen, weil Du die Materialien vielleicht schon parat hast, oder zumindest die Tricks wei\u00dft, wie man an ein bestimmtes Item leicht kommt. job acquire buider",
+            "title": "Builder:"
+        },
+        {
+            "location": "/Deutsch/jobs/#hunter",
+            "text": "Hier z\u00fcchtest Du veschiedene Tiere, und schlachtest sie. Die Erzeugnisse kannst Du auch wieder im Adminshop verkaufen. Selbstverst\u00e4ndlich kannst Du sie auch anderen Spielern verkaufen, aber hier wird wahrscheinlich die Kaufbereitschaft wahrscheinlich nicht so gro\u00df sein. job acquire hunter",
+            "title": "Hunter:"
+        },
+        {
+            "location": "/Deutsch/jobs/#weitere-jobs",
+            "text": "Diese Jobs kannst Du zus\u00e4tzlich zu den anderen machen, welche teilweise noch nicht implementiert sind. Aber auch von diesen Jobs kannst Du nur einen gleichzeitig machen. Au\u00dferdem solltest Du schon auf dem Server etwas erreicht haben ;)",
+            "title": "Weitere Jobs:"
+        },
+        {
+            "location": "/Deutsch/jobs/#bahnmitarbeiter-noch-nicht-implementiert",
+            "text": "Sie k\u00fcmmern sich, dass alles l\u00e4uft, melden gegebenenfalls Fehler, und planen Strecken, bleiben mit den Buildern im Kontakt, und kriegen auch bevorzugt Bauauftr\u00e4ge, wenn es um neue Strecken geht, und sie schon lange dabei sind.",
+            "title": "Bahnmitarbeiter (noch nicht implementiert):"
+        },
+        {
+            "location": "/Deutsch/jobs/#flugschiff-vertrieb-noch-nich-implementiert",
+            "text": "Du sollst den angehenden Flugschiff-Piloten Unterricht geben, Pr\u00fcfungen ausstellen, und am ende Lizenzen geben.",
+            "title": "Flugschiff Vertrieb (noch nich implementiert):"
+        },
+        {
+            "location": "/Deutsch/jobs/#polizist-noch-nich-implementiert",
+            "text": "Als Polizist, sperrst Du Leute ein, k\u00fcmmerst Dich um Griefing-F\u00e4lle, sorgst f\u00fcr Recht und Ordnung, kontrollierst, ob Leute Fahrkarten gekauft haben, und sp\u00fcrst Drogen-Dealer auf.",
+            "title": "Polizist (noch nich implementiert):"
+        },
+        {
+            "location": "/Deutsch/jobs/#stadt-besitzer",
+            "text": "Du bist der Besitzer einer eingetragenen Stadt, in welcher Du der B\u00fcrgermeister sein kannst. Zu weiteren Informationen siehe den St\u00e4dte Artikel.",
+            "title": "Stadt-Besitzer"
+        },
+        {
+            "location": "/Deutsch/jobs/#andere",
+            "text": "Es werden auch noch manchmal andere spezielle Mitarbeiter f\u00fcr bestimmte Sachen gebraucht, diese werden auch auf dem Job-Brett neben dem Spawn ausgeh\u00e4ngt. (Diese k\u00f6nnen nach Vereinbarung auch parallel zu anderen \"weiteren\" Jobs laufen.)   Selbstverst\u00e4ndlich kannst zus\u00e4tzlich Du so viele Jobs von Spielern annehmen, wie Du magst.",
+            "title": "Andere:"
+        },
+        {
+            "location": "/Deutsch/licenses/",
+            "text": "Der Lizenzen Mod ist wie manch andere Mods vom Server-Team ein eigens entwickelter Mod. Dadurch werden verschiedene Ingame-Berechtigungen geregelt, wie zum Beispiel die Fahrkarten, die Luftschiffe, oder der Adminshop. Das einzige, was Du als Spieler wissen musst, ist, wie man seine Lizenzen einsieht: \nlicenses_see\n\n\nAnsonsten f\u00fcr weiter Befehle besuche: https://github.com/Jean28518/minetest_licenses",
+            "title": "Lizenzen"
+        },
+        {
+            "location": "/Deutsch/Rules/",
+            "text": "Beachte die Zonen. Gebaut darf nur in der Build Zone, die Landschaft darf nur in der Farming-Zone zerst\u00f6rt werden. Mining unter y = -50 ist in allen Zonen erlaubt, solange es keinen st\u00f6rt. In der Build Zone / Transition Zone d\u00fcrfen B\u00e4ume gef\u00e4llt werden, wenn Sie danach wieder gepflanzt werden.\n\n\nM\u00f6gliche Bugs sind umgehend dem Team zu melden. Das ausnutzen von Bugs ist nicht gestattet.\n\n\nGriefing ist strengstens untersagt!\n\n\nKeinen Spam, keine Beleidigungen, keine Politischen Inhalte im Chat.\n\n\nNicht jugendfreie Inhalte in jeglicher Form sind strengstens untersagt\n\n\nHandel von Leistungen (z. B. Echtgeld) im RL (Real Life) verkn\u00fcpft mit jeglichem Wert auf dem Server sind untersagt.\n\n\nWerbung ist auf diesem Server, und auf anderen Servern f\u00fcr diesen Server nicht erlaubt.\n\n\nDer Befehl \nspawn\n soll nur in Notf\u00e4llen genutzt werden (=wenn man feststeckt). Deswegen auch die 4 Minuten Sperre.\n\n\nAreas unter y=-50 mit \nprotect\n zu sch\u00fctzen ist nicht erlaubt. Ausnahmen k\u00f6nnen vom Team genehmigt werden.\n\n\nRespektiere die anderen Mitspieler!\n\n\nModifikationen, die einem enen Vorteil gegen\u00fcber anderen Spielern verschaffen, sind untersagt. Generell sollte man nur das offizielle mintest_game verwenden.\n\n\nMehrere Accounts pro Spieler sind nicht erlaubt. Willst Du eine daf\u00fcr eine spezielle Ausnahme erhalten, melde Dich beim Team.\n\n\nHast Du einen Verstoss eines Spielers gegen die Regeln gesehen? Bitte melde es dem Server Team!\n\n\nHab viel Spa\u00df ;)",
+            "title": "Regeln"
+        },
+        {
+            "location": "/Deutsch/stadt/",
+            "text": "Wie bekommt man eine Stadt?\n\n\nEin 100 x 100 Feld kostet einmalig 100.000 Minegeld, und das erste Feld muss mindestens 300 Meter von einer anderen Stadtgrenze entfernt sein. Wenn dann eine Stadt sich in Richtung einer anderen Stadt ausbreitet, muss das mit dem anderen Stadtbesitzer gekl\u00e4rt sein. Maximal d\u00fcrfen nur 2 100*100 Felder unbebaut sein. (Damit ein Feld als bebaut gilt, muss der Stadt-Besitzer mindestens ein an einen Spieler verkauftes Grundst\u00fcck in dem Feld vorweisen k\u00f6nnen).\n\n\nGrundst\u00fccks-Verkauf:\n\n\nBeim Grundst\u00fccks-Verkauf gehen 40% des Kaufpreises an den den Staat. Solche Grundst\u00fcck-Verk\u00e4ufe m\u00fcssen dem Staat gemeldet werden, ansonsten k\u00f6nnen Strafen verh\u00e4ngt werden. Sobald ein Grundst\u00fcck verkauft wurde, kann es nur dann enteignet werden, wenn der Spieler l\u00e4nger als 3 Monate inaktiv ist. Als Stadtbesitzer darfst Du bestimmen, was auf dem Grundst\u00fcck gebaut werden darf, und wie es genutzt werden darf. Dies muss zum Zeitpunkt des Verkaufes in einem Vertrag klar geregelt sein.\n\n\nNur in einer Stadt darf ein Grundst\u00fcck f\u00fcr Geld untervermietet werden (Das muss mit dem Stadtbesitzer abgegkl\u00e4rt sein (Hotel, Shop, etc.)).\n\n\nEnteignung:\n\n\nIst ein Spieler l\u00e4nger als 3 Monate inaktiv, dann wird die Stadt enteignet, und f\u00e4llt in die H\u00e4nde des Staates. Die Stadt wird dann umgehend versteigert. Findet sich kein Erwerber wird die Stadt aufgel\u00f6st. Die Besitzer der Grundst\u00fccke bleiben erhalten. Nur gilt das Gebiet nicht mehr als Stadt.\n\n\nServereinrichtungen.\n\n\nEs k\u00f6nnen auch zum Beispiel Adminshops, Polizei-Stationen oder andere Serverspezifische Einrichtungen in St\u00e4dten gebaut werden. Das entscheidet aber das Server-Team. Anfragen k\u00f6nnen aber gerne gestellt werden.\n\n\nVorstellungen:\n\n\nJede Stadt bekommt hier auch gerne eine Seite, um sich vorzustellen, und Ihrer Vorteile zu nennen.",
+            "title": "Staedte"
+        },
+        {
+            "location": "/Deutsch/stadt/#wie-bekommt-man-eine-stadt",
+            "text": "Ein 100 x 100 Feld kostet einmalig 100.000 Minegeld, und das erste Feld muss mindestens 300 Meter von einer anderen Stadtgrenze entfernt sein. Wenn dann eine Stadt sich in Richtung einer anderen Stadt ausbreitet, muss das mit dem anderen Stadtbesitzer gekl\u00e4rt sein. Maximal d\u00fcrfen nur 2 100*100 Felder unbebaut sein. (Damit ein Feld als bebaut gilt, muss der Stadt-Besitzer mindestens ein an einen Spieler verkauftes Grundst\u00fcck in dem Feld vorweisen k\u00f6nnen).",
+            "title": "Wie bekommt man eine Stadt?"
+        },
+        {
+            "location": "/Deutsch/stadt/#grundstucks-verkauf",
+            "text": "Beim Grundst\u00fccks-Verkauf gehen 40% des Kaufpreises an den den Staat. Solche Grundst\u00fcck-Verk\u00e4ufe m\u00fcssen dem Staat gemeldet werden, ansonsten k\u00f6nnen Strafen verh\u00e4ngt werden. Sobald ein Grundst\u00fcck verkauft wurde, kann es nur dann enteignet werden, wenn der Spieler l\u00e4nger als 3 Monate inaktiv ist. Als Stadtbesitzer darfst Du bestimmen, was auf dem Grundst\u00fcck gebaut werden darf, und wie es genutzt werden darf. Dies muss zum Zeitpunkt des Verkaufes in einem Vertrag klar geregelt sein.  Nur in einer Stadt darf ein Grundst\u00fcck f\u00fcr Geld untervermietet werden (Das muss mit dem Stadtbesitzer abgegkl\u00e4rt sein (Hotel, Shop, etc.)).",
+            "title": "Grundst\u00fccks-Verkauf:"
+        },
+        {
+            "location": "/Deutsch/stadt/#enteignung",
+            "text": "Ist ein Spieler l\u00e4nger als 3 Monate inaktiv, dann wird die Stadt enteignet, und f\u00e4llt in die H\u00e4nde des Staates. Die Stadt wird dann umgehend versteigert. Findet sich kein Erwerber wird die Stadt aufgel\u00f6st. Die Besitzer der Grundst\u00fccke bleiben erhalten. Nur gilt das Gebiet nicht mehr als Stadt.",
+            "title": "Enteignung:"
+        },
+        {
+            "location": "/Deutsch/stadt/#servereinrichtungen",
+            "text": "Es k\u00f6nnen auch zum Beispiel Adminshops, Polizei-Stationen oder andere Serverspezifische Einrichtungen in St\u00e4dten gebaut werden. Das entscheidet aber das Server-Team. Anfragen k\u00f6nnen aber gerne gestellt werden.",
+            "title": "Servereinrichtungen."
+        },
+        {
+            "location": "/Deutsch/stadt/#vorstellungen",
+            "text": "Jede Stadt bekommt hier auch gerne eine Seite, um sich vorzustellen, und Ihrer Vorteile zu nennen.",
+            "title": "Vorstellungen:"
+        },
+        {
+            "location": "/Deutsch/vertraege/",
+            "text": "Vertr\u00e4ge sind n\u00fctzlich, um feste Absprachen mit Spielern ingame zu schlie\u00dfen. Geegeignet w\u00e4ren zum Beispiel Kredite, Grundst\u00fccksverk\u00e4ufe, die in einer Stadt statt finden, oder Deine eigenen Vertr\u00e4ge, wie zum Beispiel Arbeitsverh\u00e4ltnisse.\n\n\nDas muss alles ein Vertrag enthalten:\n\n\n\n\nAlle Vertragspartner\n\n\nEine detaillierte Beschreibung der Pflichten der Vertragspartner\n\n\nIn der Regel gibt es einen Vertrags-Geber, und einen Vertrags-Nehmer. Mindestens f\u00fcr den Vertrags-Nehmer sollte eine Ausstiegsklausel formuliert werden (wenn den Pflichten nicht nachgekommen wird).\n\n\nBei Dienstleistungen aller Art erlischt der Vertrag nach zwei Monaten, und muss neu gestellt werden.\n\n\nEin Abschlussdatum muss auch im Vertrag stehen.\n\n\nDer Titel des Buches beschreibt den Vertrag grob, und es sollte auch zus\u00e4tzlich das Abschlussdatum vorhanden sein!\n\n\n\n\nDer Ablauf:\n\n\n\n\nPro Vertragspartner ist ein Buch n\u00f6tig.\n\n\nJeder Vertragspartner schreibt den Vertrag in sein Buch, und speichert es ab.\n\n\nDamit ein Vertrag g\u00fcltig ist, muss jeder Vertragspartner selber sein Buch in die Vertragsbriefkasten einwerfen. Du findest ihn im Geb\u00e4ude neben dem Spawn.\n\n\nPer /mail bekommt jeder Vertragspartner umgehend Bescheid, ob der geschlossene Vertrag g\u00fcltig ist.\n\n\nIhr solltet vielleicht erst mit den Vertragsbedingungen loslegen, wenn er per /mail best\u00e4tigt wurde ;)",
+            "title": "Vertraege"
+        },
+        {
+            "location": "/Deutsch/vertraege/#das-muss-alles-ein-vertrag-enthalten",
+            "text": "Alle Vertragspartner  Eine detaillierte Beschreibung der Pflichten der Vertragspartner  In der Regel gibt es einen Vertrags-Geber, und einen Vertrags-Nehmer. Mindestens f\u00fcr den Vertrags-Nehmer sollte eine Ausstiegsklausel formuliert werden (wenn den Pflichten nicht nachgekommen wird).  Bei Dienstleistungen aller Art erlischt der Vertrag nach zwei Monaten, und muss neu gestellt werden.  Ein Abschlussdatum muss auch im Vertrag stehen.  Der Titel des Buches beschreibt den Vertrag grob, und es sollte auch zus\u00e4tzlich das Abschlussdatum vorhanden sein!",
+            "title": "Das muss alles ein Vertrag enthalten:"
+        },
+        {
+            "location": "/Deutsch/vertraege/#der-ablauf",
+            "text": "Pro Vertragspartner ist ein Buch n\u00f6tig.  Jeder Vertragspartner schreibt den Vertrag in sein Buch, und speichert es ab.  Damit ein Vertrag g\u00fcltig ist, muss jeder Vertragspartner selber sein Buch in die Vertragsbriefkasten einwerfen. Du findest ihn im Geb\u00e4ude neben dem Spawn.  Per /mail bekommt jeder Vertragspartner umgehend Bescheid, ob der geschlossene Vertrag g\u00fcltig ist.  Ihr solltet vielleicht erst mit den Vertragsbedingungen loslegen, wenn er per /mail best\u00e4tigt wurde ;)",
+            "title": "Der Ablauf:"
+        },
+        {
+            "location": "/Deutsch/HowToStart/",
+            "text": "Zuerst solltest Du Dir einen Unterschlupf besorgen, vielleicht ggf. in einem Hotel (wenn es welche gibt), oder in der Build Region dein eigenes Reich bauen. Es empfiehlt sich, sein Haus in der N\u00e4he von vorhandener Infrastrukur mit eventuell vorhandener Bahnline, oder Strasse f\u00fcr Pferde zu bauen, weil Du in der Regel dich nicht teleportieren wirst, sondern am Anfang in der Regel entweder per Zug, Pferd, oder zu Fu\u00df laufen wirst. Wenn Du mal sp\u00e4ter mal genug Geld haben solltest, dann kannst Du Dir entweder ein Luftschiff, oder eine Bahnlinie zulegen ;) Vergesse nicht, dein Gebiet sp\u00e4ter zu sch\u00fctzen ;)\n\n\nDann w\u00e4re es vielleicht an der Zeit, zu \u00fcberlegen, wie Du vielleicht Geld machst ;) Du kannst einen der vier Jobs annehmen, und entweder Pflanzen anbauen, Minen, Tiere halten, oder Rohstoffe zum Bauen, wie Stein, Holz, Glas, etc. produzieren. Verkaufen kannst Du deine Erzeugnisse im Adminshop, oder nat\u00fcrlich auch an andere Spieler. Aber das ist nur eine M\u00f6glichkeit, Du kannst auch ein Unternehmen gr\u00fcnden, oder eine neue Gesch\u00e4ftsidee umsetzen. Gerne ist das Server-Team bereit, deine Gesch\u00e4fts-Idee im Rahmen der M\u00f6glichkeiten zu unterst\u00fctzen.\n\n\nWas Du aber auch (teilweise nebenbei) machen kannst, ist Dich entweder nach Bauauftr\u00e4gen umzugucken, welche auch mal gerne vom Server zur Verf\u00fcgung gestellt werden, oder eine Karriere als Drogen-Dealer zu starten, an der Polizei anheuern, beim Flugschiff-Vertrieb anheuern, oder nach anderen Auftr\u00e4gen  Ausschau h\u00e4ltst. Eine m\u00f6gliche Anlaufstelle w\u00e4re die Schwarze Tafel am Spawn, an der auch Du f\u00fcr eine gewisse Summe deine Auftr\u00e4ge austellen kannst.\n\n\nWenn Du dann mal eine gewisse Finanzielle R\u00fccklage hast, kannst Du das machen, was Du schon immer mal machen wolltest, eine Stadt gr\u00fcnden, ein Unternehmer-Imperium aufbauen, oder Deine eigene verr\u00fcckte Idee umsetzten ;)",
+            "title": "Wie kann ich Starten?"
+        },
+        {
+            "location": "/Deutsch/wirtschaft/",
+            "text": "Die Wirtschaft auf dem Server soll ein essentielles Element darstellen, auf das besonders viel R\u00fccksicht genommen wird.\n\n\nW\u00e4hrung:\n\n\nEs gibt die W\u00e4hrung Minegeld, von der ein Spieler am Anfang 250 bekommt. Pro Minetest-Tag, an dem ein Spieler aktiv auf dem Server spielt, bekommt er 10 Minegeld, sofern Platz dazu in seinem Inventar ist.\n\n\nWie verdiene ich am besten Geld?\n\n\nGrunds\u00e4tzlich sind Dir keine Grenzen gesetzt. Mach das, worauf Du am meisten Spa\u00df hast! Am Anfang macht es Sinn sich einen Job \u00fcber \n/job\n zu besorgen, und dazugeh\u00f6rige Items farmen/minen/abbauen, und im Adminshop zu verkaufen. Allerdings haben die Items eigentlich einen h\u00f6heren Wert. Die genauen Werte kannst Du \nhier\n einsehen. Deshalb macht es eigentlich mehr Sinn, deine Items in eigenen Shops zu verkaufen. Die K\u00e4ufer freuen sich auch, weil im Adminshop die Items bewusst zu weitaus viel h\u00f6heren Preisen angeboten werden, und beide somit Ihren Vorteil daraus ziehen ;) Fehlt Dir ein bestimmtes Item im Adminshop? Oder findest Du einen Wert in der Tabelle zu niedig/zu hoch? Melde Dich gerne unter /mail bei LinuxGuides!\n\n\nAnsonsten halte nach Jobs im Geb\u00e4ude neben dem Spawn Ausschau, da kann auch mal durchaus was lukratives dabei sein. Au\u00dferdem gibt es pro Monat ein Item, was Du f\u00fcr besonders viel Geld im Adminshop verkaufen kannst, das lohnt sich auch immer ;)\n\n\nAnsonsten kannst Du auch gerne deine eigene Firma gr\u00fcnden, und bestimmte Dienstleistungn, oder Produkte anbieten, das Team unterst\u00fctzt Dich dabei auch gerne, wenn es nicht zu gro\u00dfe Anpassungen des Servers ben\u00f6tigt ;)\n\n\nWas mache ich mit meinem Geld?\n\n\nTja, bl\u00f6d, wenn man zu viel Geld hat, oder? Du kannst zum Beispiel deine eigene Stadt gr\u00fcnden, und eine Eisenbahnlinie dahin beantragen, Dir ein Luft-Schiff kaufen, welches wirklich sehr schnell ist, Immobilienmarkler werden, und so weiter... Da sind Dir auch keine Grenzen gesetzt ;)\n\n\nEs ist strengstens verboten, Leistungen, oder Waren anderen Spielern \u00fcber Echtgeld oder anderen Dienstleistungn au\u00dferhalb des Server zu verkaufen!!!",
+            "title": "Wirtschaft"
+        },
+        {
+            "location": "/Deutsch/wirtschaft/#wahrung",
+            "text": "Es gibt die W\u00e4hrung Minegeld, von der ein Spieler am Anfang 250 bekommt. Pro Minetest-Tag, an dem ein Spieler aktiv auf dem Server spielt, bekommt er 10 Minegeld, sofern Platz dazu in seinem Inventar ist.",
+            "title": "W\u00e4hrung:"
+        },
+        {
+            "location": "/Deutsch/wirtschaft/#wie-verdiene-ich-am-besten-geld",
+            "text": "Grunds\u00e4tzlich sind Dir keine Grenzen gesetzt. Mach das, worauf Du am meisten Spa\u00df hast! Am Anfang macht es Sinn sich einen Job \u00fcber  /job  zu besorgen, und dazugeh\u00f6rige Items farmen/minen/abbauen, und im Adminshop zu verkaufen. Allerdings haben die Items eigentlich einen h\u00f6heren Wert. Die genauen Werte kannst Du  hier  einsehen. Deshalb macht es eigentlich mehr Sinn, deine Items in eigenen Shops zu verkaufen. Die K\u00e4ufer freuen sich auch, weil im Adminshop die Items bewusst zu weitaus viel h\u00f6heren Preisen angeboten werden, und beide somit Ihren Vorteil daraus ziehen ;) Fehlt Dir ein bestimmtes Item im Adminshop? Oder findest Du einen Wert in der Tabelle zu niedig/zu hoch? Melde Dich gerne unter /mail bei LinuxGuides!  Ansonsten halte nach Jobs im Geb\u00e4ude neben dem Spawn Ausschau, da kann auch mal durchaus was lukratives dabei sein. Au\u00dferdem gibt es pro Monat ein Item, was Du f\u00fcr besonders viel Geld im Adminshop verkaufen kannst, das lohnt sich auch immer ;)  Ansonsten kannst Du auch gerne deine eigene Firma gr\u00fcnden, und bestimmte Dienstleistungn, oder Produkte anbieten, das Team unterst\u00fctzt Dich dabei auch gerne, wenn es nicht zu gro\u00dfe Anpassungen des Servers ben\u00f6tigt ;)",
+            "title": "Wie verdiene ich am besten Geld?"
+        },
+        {
+            "location": "/Deutsch/wirtschaft/#was-mache-ich-mit-meinem-geld",
+            "text": "Tja, bl\u00f6d, wenn man zu viel Geld hat, oder? Du kannst zum Beispiel deine eigene Stadt gr\u00fcnden, und eine Eisenbahnlinie dahin beantragen, Dir ein Luft-Schiff kaufen, welches wirklich sehr schnell ist, Immobilienmarkler werden, und so weiter... Da sind Dir auch keine Grenzen gesetzt ;)  Es ist strengstens verboten, Leistungen, oder Waren anderen Spielern \u00fcber Echtgeld oder anderen Dienstleistungn au\u00dferhalb des Server zu verkaufen!!!",
+            "title": "Was mache ich mit meinem Geld?"
+        },
+        {
+            "location": "/Deutsch/gebiete/",
+            "text": "Der Server ist in drei Zonen aufgeteilt:\n\n\nFarming Zone:\n\n\nSie liegt im Westen der Karte. Hier ist alles erlaubt - Au\u00dfer Gebiete mit \n/protect\n zu sch\u00fctzen.\n\n\nTransition Zone:\n\n\nDiese Zone sollte unber\u00fchrt bleiben. Sie sollte nur durchquert werden. Wenn Du dort feststecken solltest, darfst Du dich schon daraus befreien, aber die Landschaft sollte danach wieder unber\u00fchrt aussehen. Sie ist 400 Bl\u00f6cke breit.\n\n\nBuild Zone:\n\n\nHier darfst Du bauen, und sont alle anderen Aktivit\u00e4ten machen, die Landschaft nicht zerst\u00f6ren. Vergesse am Ende nicht, dein Geb\u00e4ude mit /protect zu sc\u00fctzen. Gehen Dir die Areas aus, oder sind zu klein, spreche gerne einen Admin an, der Dir dein Geb\u00e4ude sichert. Wenn keiner online ist, dann sende eine /mail an LinuxGuides. In der Mial sollten die Koordinaten deines Geb\u00e4udes sein. Auch kannst Du Ver\u00e4nderungen der Landschaft \u00fcbernehmen, solange es keinen st\u00f6rt, und es am Ende wieder h\u00fcbsch aussieht ;)\n\nBitte respektiere deine anderen Mitspieler, und wenn diese noch aktiv sind (\n/last-login <Spielername>\n) frage vielleicht deine Nachbarn ob das okay ist, wenn Du etwas au\u00dfergew\u00f6hnliches machen willst.\n Ansonsten ist die Karte ja gro\u00df genug ;)",
+            "title": "Zonen"
+        },
+        {
+            "location": "/Deutsch/gebiete/#farming-zone",
+            "text": "Sie liegt im Westen der Karte. Hier ist alles erlaubt - Au\u00dfer Gebiete mit  /protect  zu sch\u00fctzen.",
+            "title": "Farming Zone:"
+        },
+        {
+            "location": "/Deutsch/gebiete/#transition-zone",
+            "text": "Diese Zone sollte unber\u00fchrt bleiben. Sie sollte nur durchquert werden. Wenn Du dort feststecken solltest, darfst Du dich schon daraus befreien, aber die Landschaft sollte danach wieder unber\u00fchrt aussehen. Sie ist 400 Bl\u00f6cke breit.",
+            "title": "Transition Zone:"
+        },
+        {
+            "location": "/Deutsch/gebiete/#build-zone",
+            "text": "Hier darfst Du bauen, und sont alle anderen Aktivit\u00e4ten machen, die Landschaft nicht zerst\u00f6ren. Vergesse am Ende nicht, dein Geb\u00e4ude mit /protect zu sc\u00fctzen. Gehen Dir die Areas aus, oder sind zu klein, spreche gerne einen Admin an, der Dir dein Geb\u00e4ude sichert. Wenn keiner online ist, dann sende eine /mail an LinuxGuides. In der Mial sollten die Koordinaten deines Geb\u00e4udes sein. Auch kannst Du Ver\u00e4nderungen der Landschaft \u00fcbernehmen, solange es keinen st\u00f6rt, und es am Ende wieder h\u00fcbsch aussieht ;) Bitte respektiere deine anderen Mitspieler, und wenn diese noch aktiv sind ( /last-login <Spielername> ) frage vielleicht deine Nachbarn ob das okay ist, wenn Du etwas au\u00dfergew\u00f6hnliches machen willst.  Ansonsten ist die Karte ja gro\u00df genug ;)",
+            "title": "Build Zone:"
+        },
+        {
+            "location": "/English/areas/",
+            "text": "Areas is a powerful mod with which you can regulate who is allowed to build in an area and who is not.\n\n\nHints:\n\n\n\n\nIf you want to protect an area below y = -50, then this must be agreed with the server team.\n\n\nEach player can secure 4 areas to a maximum size of 64x64x128. If you need more, please ask the server team.\n\n\n Only areas in the Build Zone can be protected. \n\n\n\n\nProtecting the area:\n\n\n\n\nCraft some Markers (see in the Crafting Book for recipe)\n\n\nplace the markers in the opposite corners, and then right-click one of them. Then you can protect your territory. It costs you nothing.\n\n\n\n\nOr:\n\n\n\n\n/area_pos1\n,\n/area_pos2\n, \n/protect <NameOfTheTerritory>\n\n\n\n\nAdd someone to your area:\n\n\n\n\nYou can optionally define the area with the markers (not right-click them) in which the other player may build in your area. If you do not, then it is assumed that the player can access your entire area.\n\n\n/add_owner <IdFromYourArea> <OtherPlayer> <NameTheNewArea>\n\n\n\n\nChange owner:\n\n\n\n\nThis can only be done by the \"previous\" qwner: \n/change_owner <IdFromTheArea> <NewOwner>\n\n\n\n\nDelete area:\n\n\n/remove_area <ID>\n\n\n\n\nFor more commands see: https://github.com/ShadowNinja/areas",
+            "title": "Areas"
+        },
+        {
+            "location": "/English/areas/#hints",
+            "text": "If you want to protect an area below y = -50, then this must be agreed with the server team.  Each player can secure 4 areas to a maximum size of 64x64x128. If you need more, please ask the server team.   Only areas in the Build Zone can be protected.",
+            "title": "Hints:"
+        },
+        {
+            "location": "/English/areas/#protecting-the-area",
+            "text": "Craft some Markers (see in the Crafting Book for recipe)  place the markers in the opposite corners, and then right-click one of them. Then you can protect your territory. It costs you nothing.",
+            "title": "Protecting the area:"
+        },
+        {
+            "location": "/English/areas/#or",
+            "text": "/area_pos1 , /area_pos2 ,  /protect <NameOfTheTerritory>",
+            "title": "Or:"
+        },
+        {
+            "location": "/English/areas/#add-someone-to-your-area",
+            "text": "You can optionally define the area with the markers (not right-click them) in which the other player may build in your area. If you do not, then it is assumed that the player can access your entire area.  /add_owner <IdFromYourArea> <OtherPlayer> <NameTheNewArea>",
+            "title": "Add someone to your area:"
+        },
+        {
+            "location": "/English/areas/#change-owner",
+            "text": "This can only be done by the \"previous\" qwner:  /change_owner <IdFromTheArea> <NewOwner>",
+            "title": "Change owner:"
+        },
+        {
+            "location": "/English/areas/#delete-area",
+            "text": "/remove_area <ID>   For more commands see: https://github.com/ShadowNinja/areas",
+            "title": "Delete area:"
+        },
+        {
+            "location": "/English/stadt/",
+            "text": "How do you get a city?\n\n\nYou can gradually \"buy\" your city in 100 x 100 fields. A 100 x 100 field will cost you a one-time 100,000 Minegeld, and the first field has to be at least 300 meters from another city border. Then, when a city spreads directly to another city, that must be clarified with the others city owner. The maximum allowed unbuilt fields are only 2 100 x 100 fields. (For a field to be built, the city owner has to be able to show at least one property sold to a player in the field).\n\n\nLand sale:\n\n\nWhen selling land, 40% of the purchase price goes to the state. Such land sales must be reported to the state, otherwise penalties may be imposed. Once a property has been sold, it can only be expropriated if the player is inactive for more than 3 months. As a city owner, you are allowed to determine what may be built on the property and how it may be used. This has to be clearly defined at the time of sale in a contract.\n\n\nOnly in one city may a property be sublet for money (this must be clarified with the city owner (for hotels, shops, etc.)).\n\n\nexpropriation:\n\n\nIf a player is inactive for more than 3 months, the city is expropriated and falls into the hands of the state. The city will then be auctioned immediately. If no buyer is found, the city is dissolved. The owners of the properties remain preserved. The only thing: the area is no longer considered as a city.\n\n\nserver facilities.\n\n\nIt is also possible to build, for example, adminshops, police stations or other server-specific facilities in cities. But that's what the server team decides. However, inquiries can be made.\n\n\nImaginations:\n\n\nEach city also likes to get a page here to introduce themselves, and to give their benefits.",
+            "title": "Cities"
+        },
+        {
+            "location": "/English/stadt/#how-do-you-get-a-city",
+            "text": "You can gradually \"buy\" your city in 100 x 100 fields. A 100 x 100 field will cost you a one-time 100,000 Minegeld, and the first field has to be at least 300 meters from another city border. Then, when a city spreads directly to another city, that must be clarified with the others city owner. The maximum allowed unbuilt fields are only 2 100 x 100 fields. (For a field to be built, the city owner has to be able to show at least one property sold to a player in the field).",
+            "title": "How do you get a city?"
+        },
+        {
+            "location": "/English/stadt/#land-sale",
+            "text": "When selling land, 40% of the purchase price goes to the state. Such land sales must be reported to the state, otherwise penalties may be imposed. Once a property has been sold, it can only be expropriated if the player is inactive for more than 3 months. As a city owner, you are allowed to determine what may be built on the property and how it may be used. This has to be clearly defined at the time of sale in a contract.  Only in one city may a property be sublet for money (this must be clarified with the city owner (for hotels, shops, etc.)).",
+            "title": "Land sale:"
+        },
+        {
+            "location": "/English/stadt/#expropriation",
+            "text": "If a player is inactive for more than 3 months, the city is expropriated and falls into the hands of the state. The city will then be auctioned immediately. If no buyer is found, the city is dissolved. The owners of the properties remain preserved. The only thing: the area is no longer considered as a city.",
+            "title": "expropriation:"
+        },
+        {
+            "location": "/English/stadt/#server-facilities",
+            "text": "It is also possible to build, for example, adminshops, police stations or other server-specific facilities in cities. But that's what the server team decides. However, inquiries can be made.",
+            "title": "server facilities."
+        },
+        {
+            "location": "/English/stadt/#imaginations",
+            "text": "Each city also likes to get a page here to introduce themselves, and to give their benefits.",
+            "title": "Imaginations:"
+        },
+        {
+            "location": "/English/vertraege/",
+            "text": "Contracts are useful for making firm arrangements with players in game. For example, loans, property sales that take place in a city or your own contracts, such as employment contracts, would be suitable.\n\n\nAll this must contain a contract:\n\n\n\n\nAll contract partners\n\n\nA detailed description of the obligations of the contractors\n\n\nThere is usually a perseon who gives the contract giver, and a contract taker. At least for the contract taker an exit clause should be formulated (if the obligations are not fulfilled).\n\n\nFor services of all kinds, the contract expires after two months, and must be renewed.\n\n\nAn inital date must also be in the contract.\n\n\nThe title of the book describes the contract roughly, and there should also be the initial date in it!\n\n\n\n\nThe sequence:\n\n\n\n\nOne book is required per contract partner.\n\n\nEach contractor writes the contract in his book, and saves it.\n\n\nFor a contract to be valid, each contractor must insert his own book in the contract letter box. You can find him in the building next to the spawn.\n\n\nPer /mail each contracting party gets feedback, whether the closed contract is valid, or not.\n\n\nYou should probably only start with the terms and conditions, if the contract was confirmed by /mail ;)",
+            "title": "Contracts"
+        },
+        {
+            "location": "/English/vertraege/#all-this-must-contain-a-contract",
+            "text": "All contract partners  A detailed description of the obligations of the contractors  There is usually a perseon who gives the contract giver, and a contract taker. At least for the contract taker an exit clause should be formulated (if the obligations are not fulfilled).  For services of all kinds, the contract expires after two months, and must be renewed.  An inital date must also be in the contract.  The title of the book describes the contract roughly, and there should also be the initial date in it!",
+            "title": "All this must contain a contract:"
+        },
+        {
+            "location": "/English/vertraege/#the-sequence",
+            "text": "One book is required per contract partner.  Each contractor writes the contract in his book, and saves it.  For a contract to be valid, each contractor must insert his own book in the contract letter box. You can find him in the building next to the spawn.  Per /mail each contracting party gets feedback, whether the closed contract is valid, or not.  You should probably only start with the terms and conditions, if the contract was confirmed by /mail ;)",
+            "title": "The sequence:"
+        },
+        {
+            "location": "/English/befehleAufEinenBlick/",
+            "text": "ads_language <de / en>\n Set the language of the server messages\n\n\njob\n Show help about jobs\n\n\njob acquire <job>\n begin some job\n\n\njob info\n View your current job\n\n\nlast-login <playername>\n Show the last login of a player\n\n\nlicenses_see\n Show your licenses\n\n\nmail\n Open the e-mail window\n\n\nmmo_activate\n Enter the player world\n\n\nmsg <playername> <message>\n Send someone a private message\n\n\nspawn\n Teleport you to spawn if you're stuck somewhere. Does not work under y = -50.\n\n\nwiki\n Show the address of the wiki here.",
+            "title": "Commands at a glance"
+        },
+        {
+            "location": "/English/wirtschaft/",
+            "text": "The economy on the server should be an essential element, which is particularly taken into account.\n\n\nCurrency:\n\n\nThere is the currency Minegeld, from which a player gets 250 in the beginning. For every Minetest Day a player actively plays on the server, he gets 10 coins, if there is room enough in his inventory.\n\n\nHow do I earn the most money?\n\n\nBasically, you have no limits. Do what you enjoy most! In the beginning, it makes sense to get a job on \n/job\n, and to farm / mine / mine related items, and to sell them in the adminshop. However, the items actually have a higher value. You can see the exact values \u200b\u200b\nhere\n. That's why it makes more sense to sell your items in your own shops. The buyers are also happy because the items in the Adminshop are deliberately offered at much higher prices, and both thus take advantage of it ;) Is a particular item missing in the Adminshop? Or do you find a value in the table too low / too high? Feel free to write a message to the Server-Team!\n\n\nOtherwise, look for jobs in the building next to the spawn, there can be quite a bit lucrative. In addition, there is an item per month, which you can sell for extra much money in the adminshop, which is always worthwhile;)\n\n\nOtherwise, you could also start your own company, and offer certain services, or products. The team also likes to help you, if it does not require too much customization for the server ;)\n\n\nWhat do I do with my money?\n\n\nWell, stupid, if you have too much money, right? You can, for example, set up your own city and apply for a railway line, buy an airship that is really fast, become a real estate marketer, and so on ... you have no limits;)\n\n\n It is strictly forbidden to sell services or goods to other players through real money or other services outside the server !!!",
+            "title": "Economy"
+        },
+        {
+            "location": "/English/wirtschaft/#currency",
+            "text": "There is the currency Minegeld, from which a player gets 250 in the beginning. For every Minetest Day a player actively plays on the server, he gets 10 coins, if there is room enough in his inventory.",
+            "title": "Currency:"
+        },
+        {
+            "location": "/English/wirtschaft/#how-do-i-earn-the-most-money",
+            "text": "Basically, you have no limits. Do what you enjoy most! In the beginning, it makes sense to get a job on  /job , and to farm / mine / mine related items, and to sell them in the adminshop. However, the items actually have a higher value. You can see the exact values \u200b\u200b here . That's why it makes more sense to sell your items in your own shops. The buyers are also happy because the items in the Adminshop are deliberately offered at much higher prices, and both thus take advantage of it ;) Is a particular item missing in the Adminshop? Or do you find a value in the table too low / too high? Feel free to write a message to the Server-Team!  Otherwise, look for jobs in the building next to the spawn, there can be quite a bit lucrative. In addition, there is an item per month, which you can sell for extra much money in the adminshop, which is always worthwhile;)  Otherwise, you could also start your own company, and offer certain services, or products. The team also likes to help you, if it does not require too much customization for the server ;)",
+            "title": "How do I earn the most money?"
+        },
+        {
+            "location": "/English/wirtschaft/#what-do-i-do-with-my-money",
+            "text": "Well, stupid, if you have too much money, right? You can, for example, set up your own city and apply for a railway line, buy an airship that is really fast, become a real estate marketer, and so on ... you have no limits;)   It is strictly forbidden to sell services or goods to other players through real money or other services outside the server !!!",
+            "title": "What do I do with my money?"
+        },
+        {
+            "location": "/English/HowToStart/",
+            "text": "First, you should get yourself a shelter, maybe in a hotel (if any exists at time), or build your own house in the Build Region. It is recommended to build your house near existing infrastructure with any existing railway line, or road for horses, because you will not teleport usually, but at the beginning you will go either by train, horse, or by foot. If you ever have enough money, you can either buy an airship or a train line;)\n\n\nThen maybe it would be time to think about how you might make money;) You can take on one of the four jobs and either grow plants, mine, keep animals, or build resources like stone, wood, glass, etc. to produce. You can sell your products in the Adminshop, or of course to other players. But that's just a possibility, you can also start a business, or implement a new business idea. The server team is happy to support your business idea as much as possible. Whatch on \"Economy\" to get more information about getting some money.\n\n\nWhat you can also do (partly by the way), is to look for construction contracts, which are also sometimes like to be provided by the server, or to start a career as a drug dealer, hire the police, hiring the airship sales, or look for other jobs. (See \"Jobs\" for more information) A possible contact point would be the blackboard at the spawn, where you can spend your work for a certain sum, or watch for offers.\n\n\nIf you have a certain financial reserve then you can do what you have always wanted to do, start a city, build a business empire, or implement your own crazy idea ;)",
+            "title": "How to start?"
+        },
+        {
+            "location": "/English/inaktiviaet/",
+            "text": "A player is considered inactive if he has not been on the server for 3 months. This can be tracked with \n/last-login <SpierlerName>\n.\n\n\nIf a player is inactive, he is no longer rights to his property. You as a player are welcome to report the property of an inactive player, and if it is not a great structure, the property with all the chests will be removed.\n\n\nIf it is a great structure, then the ownership passes to the server. Maybe it will then be auctioned, or simply immortalized on the server. But that will be the decision of the server team ;)",
+            "title": "Inactivity"
+        },
+        {
+            "location": "/English/jobs/",
+            "text": "There are four jobs anyone can do. However, you can only change your job every 10 hours. If you have an idea for another job, let us know! You can actually sell all items except the month offer only with a special job to the Adminshop. You do not necessarily have to sell them to the adminshop because you can certainly sell your items to players for far better prices.\nTo see your current job, enter \n/job info\n\n\nMiner:\n\n\nYou're in a stuffy cave all the time, or in a mine shaft, digging your way through the world. Note that from a height of y = -100 you can no longer teleport to spawn using the / spawn command. That means you have to find your way back ;) That makes the job a bit more challenging. But it is also worth digging very deep, since from a height of about -2000 a few surprises will wait for you ;) (Little hint, from a height of y = -16000 you will see nothing new.) If once get down so deep, then the caves are more than a goldmine ;-)\n\n/job acquire miner\n\n\nFarmer:\n\n\nWho did not want to lead a beautiful life in the countryside? Here you can do it, and build it yourself! A few plants are worthwhile, a few rather less to sell them at the adminshop, make your own experience! In the beginning, it is highly recommended to save on the Mithril Scythe in the Adminshop as it greatly simplifies your work. In addition, it is worthwhile to build fields near railroad tracks, as there more often pass by players, and thus the field grows in time.\n\n/job acquire farmer\n\n\nBuilder:\n\n\nHere you wander through the landscapes, and farm various resources to build. See in the Adminshop for the specific Items. With your abilities, of course, it makes more sense to go to construction jobs, because you may already have the materials ready, or at least the tricks know how to easily get to a particular item.\n\n/job acquire buider\n\n\nHunter:\n\n\nHere you breed different animals and kill them. You can also sell the products again in the Adminshop. Of course, you can also sell them to other players, but probably the willingness to buy will probably not be that great in this case.\n\n/job acquire hunter\n\n\nmore jobs:\n\n\nYou can do these jobs in addition to the others, some of which are not yet implemented. But also from these jobs, you can only do one at one time. In addition, you should have already achieved something on the server;)\n\n\nRailway employees (not yet implemented):\n\n\nThey take care of everything, report bugs if necessary, and plan routes, stay in contact with the builders, and also get easier construction jobs when it comes to new routes, and they've been around for a long time.\n\n\nFlugschiff Vertrieb (not yet implemented):\n\n\nYou should teach the aspiring pilot ship pilots, take exams, and give licenses to them in the end.\n\n\nPoliceman (not yet implemented):\n\n\nAs a police officer, you lock up people, take care of griefing cases, take care of law and order, check if people have bought tickets, and track down drug dealers.\n\n\nCity Owner\n\n\nYou are the owner of a registered city where you can be the mayor. For more information, see the Cities article.\n\n\nOther:\n\n\nThere are also sometimes other special employees needed for certain things, these are posted on the job board next to the spawn. (By agreement, they can also run parallel to other \"other\" jobs.)\n\n\n\n\nOf course in addition you can begin many jobs, wich are given by other player, as you want.",
+            "title": "Jobs"
+        },
+        {
+            "location": "/English/jobs/#miner",
+            "text": "You're in a stuffy cave all the time, or in a mine shaft, digging your way through the world. Note that from a height of y = -100 you can no longer teleport to spawn using the / spawn command. That means you have to find your way back ;) That makes the job a bit more challenging. But it is also worth digging very deep, since from a height of about -2000 a few surprises will wait for you ;) (Little hint, from a height of y = -16000 you will see nothing new.) If once get down so deep, then the caves are more than a goldmine ;-) /job acquire miner",
+            "title": "Miner:"
+        },
+        {
+            "location": "/English/jobs/#farmer",
+            "text": "Who did not want to lead a beautiful life in the countryside? Here you can do it, and build it yourself! A few plants are worthwhile, a few rather less to sell them at the adminshop, make your own experience! In the beginning, it is highly recommended to save on the Mithril Scythe in the Adminshop as it greatly simplifies your work. In addition, it is worthwhile to build fields near railroad tracks, as there more often pass by players, and thus the field grows in time. /job acquire farmer",
+            "title": "Farmer:"
+        },
+        {
+            "location": "/English/jobs/#builder",
+            "text": "Here you wander through the landscapes, and farm various resources to build. See in the Adminshop for the specific Items. With your abilities, of course, it makes more sense to go to construction jobs, because you may already have the materials ready, or at least the tricks know how to easily get to a particular item. /job acquire buider",
+            "title": "Builder:"
+        },
+        {
+            "location": "/English/jobs/#hunter",
+            "text": "Here you breed different animals and kill them. You can also sell the products again in the Adminshop. Of course, you can also sell them to other players, but probably the willingness to buy will probably not be that great in this case. /job acquire hunter",
+            "title": "Hunter:"
+        },
+        {
+            "location": "/English/jobs/#more-jobs",
+            "text": "You can do these jobs in addition to the others, some of which are not yet implemented. But also from these jobs, you can only do one at one time. In addition, you should have already achieved something on the server;)",
+            "title": "more jobs:"
+        },
+        {
+            "location": "/English/jobs/#railway-employees-not-yet-implemented",
+            "text": "They take care of everything, report bugs if necessary, and plan routes, stay in contact with the builders, and also get easier construction jobs when it comes to new routes, and they've been around for a long time.",
+            "title": "Railway employees (not yet implemented):"
+        },
+        {
+            "location": "/English/jobs/#flugschiff-vertrieb-not-yet-implemented",
+            "text": "You should teach the aspiring pilot ship pilots, take exams, and give licenses to them in the end.",
+            "title": "Flugschiff Vertrieb (not yet implemented):"
+        },
+        {
+            "location": "/English/jobs/#policeman-not-yet-implemented",
+            "text": "As a police officer, you lock up people, take care of griefing cases, take care of law and order, check if people have bought tickets, and track down drug dealers.",
+            "title": "Policeman (not yet implemented):"
+        },
+        {
+            "location": "/English/jobs/#city-owner",
+            "text": "You are the owner of a registered city where you can be the mayor. For more information, see the Cities article.",
+            "title": "City Owner"
+        },
+        {
+            "location": "/English/jobs/#other",
+            "text": "There are also sometimes other special employees needed for certain things, these are posted on the job board next to the spawn. (By agreement, they can also run parallel to other \"other\" jobs.)   Of course in addition you can begin many jobs, wich are given by other player, as you want.",
+            "title": "Other:"
+        },
+        {
+            "location": "/English/licenses/",
+            "text": "The license mod is like some other mods from the server team a specially developed mod. With this mods various in-game permissions are regulated, such as the tickets, the airships, or the adminshop. The only thing you need to know as a player is how to see your all your licenses maybe: \nlicenses_see\n\n\nOtherwise for more commands visit: https://github.com/Jean28518/minetest_licenses",
+            "title": "Licenses"
+        },
+        {
+            "location": "/English/bahnlinien/",
+            "text": "The railroad plays an important role on the server because you should not be able to teleport normally. You can apply for a railway line by calling on a railway employee or the team. For example, if you have a city in planning, you can even build a suburban train, or a whole main station, to get more people into your city. Rail lines can usually only run double track, and only the construction of a railway line costs money. Railway lines are usually built above ground.\n\n\nPrices:\n\n\n Basic fee: \n 20,000 coins\n\n\n| | Above ground: | Underground / Tunnel: | Bridge: |\n| --- | --- | --- | --- | --- |\n| \n per 100 m route: \n | 5,000 | 10,000 | 7,000 |\n| \n per station: \n | 10,000 | 20,000 | 15,000 |\n\n\nDue to RPG elements it is not possible, as long as you are not a builder, to build the track yourself. If you own the job as a builder, you get no perks, but just your normal salary.\n\n\nConstruction:\n\n\nThe construction is usually limited to the time of one month. You may design the stations on your own, if desired. Each intermediate stop costs two tracks, each end station is also satisfied with one track only. Of course, the railway line can / should be connected to another existing station, if the space is sufficient, and the owner agrees. A multi-level station with different lines is also possible ;)\n\n\nPossession:\n\n\nYou are the owner of the railway line in your city area and your created station (in your territory). You have no right, if an intermediate station with further connections for example is built on \"your\" the railway line.",
+            "title": "Railway lines"
+        },
+        {
+            "location": "/English/bahnlinien/#prices",
+            "text": "Basic fee:   20,000 coins  | | Above ground: | Underground / Tunnel: | Bridge: |\n| --- | --- | --- | --- | --- |\n|   per 100 m route:   | 5,000 | 10,000 | 7,000 |\n|   per station:   | 10,000 | 20,000 | 15,000 |  Due to RPG elements it is not possible, as long as you are not a builder, to build the track yourself. If you own the job as a builder, you get no perks, but just your normal salary.",
+            "title": "Prices:"
+        },
+        {
+            "location": "/English/bahnlinien/#construction",
+            "text": "The construction is usually limited to the time of one month. You may design the stations on your own, if desired. Each intermediate stop costs two tracks, each end station is also satisfied with one track only. Of course, the railway line can / should be connected to another existing station, if the space is sufficient, and the owner agrees. A multi-level station with different lines is also possible ;)",
+            "title": "Construction:"
+        },
+        {
+            "location": "/English/bahnlinien/#possession",
+            "text": "You are the owner of the railway line in your city area and your created station (in your territory). You have no right, if an intermediate station with further connections for example is built on \"your\" the railway line.",
+            "title": "Possession:"
+        },
+        {
+            "location": "/English/Rules/",
+            "text": "Note the zones. Built only in the Build Zone, the landscape may only be destroyed in the Farming Zone. Mining below y = -50 is allowed in all zones, as long as it does not bother anyone. In the Build Zone / Transition Zone, trees may be felled when planted afterwards.\n\n\nPossible bugs are to be reported immediately to the team. The exploitation of bugs is not permitted.\n\n\nGriefing is strictly prohibited!\n\n\nNo spam, no insults, no political content in the chat.\n\n\nAdult content in any form is strictly prohibited\n\n\nTrading of services (eg real money) in RL (Real Life) linked to any value on the server is prohibited.\n\n\nAdvertising is not allowed on this server, and on other servers for this server it isn't too.\n\n\nThe command \n/spawn\n should only be used in emergencies (= if you are stuck). That's why the 4 minute lock.\n\n\nTo protect areas under y = -50 is not allowed. Exceptions can be approved by the team.\n\n\nRespect the other players!\n\n\nModifications that give an advantage over other players are prohibited. Generally you should only use the official mintest_game.\n\n\nMultiple accounts per player are not allowed. If you want to get a special exception, contact the team.\n\n\nHave you seen a player violating the rules? Please report it to the server team!\n\n\nHave a lot of fun ;)",
+            "title": "Rules"
+        },
+        {
+            "location": "/English/gebiete/",
+            "text": "The server is divided into three zones:\n\n\nFarming Zone:\n\n\nIt is located in the west of the map. Everything is allowed here - except to protect areas.\n\n\nTransition zone:\n\n\nThis zone should be left untouched. It should only be crossed. If you're stuck there, you can free yourself from it, but the landscape should look untouched afterwards. It is 400 blocks wide, and between the two other zones.\n\n\nBuild Zone:\n\n\nHere you are allowed to build, and do any other activities that do not destroy the landscape. In the end, do not forget to protect your building with /protect (Areas). Also, you can take changes in the landscape, as long as it does not disturb anyone, and it looks nice again in the end;)\n\n Please respect the other players, and if they are still active (\n/ last-login <player name>\n) ask your neighbors if that's okay, if you want to do something extraordinary. \n Otherwise the map is big enough ;)",
+            "title": "Zones"
+        },
+        {
+            "location": "/English/gebiete/#farming-zone",
+            "text": "It is located in the west of the map. Everything is allowed here - except to protect areas.",
+            "title": "Farming Zone:"
+        },
+        {
+            "location": "/English/gebiete/#transition-zone",
+            "text": "This zone should be left untouched. It should only be crossed. If you're stuck there, you can free yourself from it, but the landscape should look untouched afterwards. It is 400 blocks wide, and between the two other zones.",
+            "title": "Transition zone:"
+        },
+        {
+            "location": "/English/gebiete/#build-zone",
+            "text": "Here you are allowed to build, and do any other activities that do not destroy the landscape. In the end, do not forget to protect your building with /protect (Areas). Also, you can take changes in the landscape, as long as it does not disturb anyone, and it looks nice again in the end;)  Please respect the other players, and if they are still active ( / last-login <player name> ) ask your neighbors if that's okay, if you want to do something extraordinary.   Otherwise the map is big enough ;)",
+            "title": "Build Zone:"
+        }
+    ]
+}
