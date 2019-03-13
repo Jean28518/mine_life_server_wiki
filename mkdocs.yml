@@ -1,22 +1,22 @@
-site_name: Mine Life Server Wiki
+site_name: Mine Life Wiki
 pages:
-  - Home: 'index.md'
+  - Home: index.md
   - Deutsch:
-      - Areas: 'Deutsch/areas.md'
+      - Areas: Deutsch/areas.md
       - Bahnlinien: Deutsch/bahnlinien.md
       - Befehle auf einen Blick: Deutsch/befehleAufEinenBlick.md
-      - Inaktivität: Deutsch/inaktivitaet.md
+      - Inaktivitaet: Deutsch/inaktivitaet.md
       - Jobs: Deutsch/jobs.md
       - Lizenzen: Deutsch/licenses.md
       - Regeln: Deutsch/Rules.md
-      - Städte: Deutsch/stadt.md
-      - Verträge: Deutsch/vertraege.md
+      - Staedte: Deutsch/stadt.md
+      - Vertraege: Deutsch/vertraege.md
       - Wie kann ich Starten?: Deutsch/HowToStart.md
       - Wirtschaft: Deutsch/wirtschaft.md
       - Zonen: Deutsch/gebiete.md
 
   - English:
-      - 'Areas': 'English/areas.md'
+      - Areas: English/areas.md
       - Cities: English/stadt.md
       - Contracts: English/vertraege.md
       - Commands at a glance: English/befehleAufEinenBlick.md
