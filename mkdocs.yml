@@ -1,32 +1,31 @@
 site_name: Mine Life Wiki
-pages:
-  - Home: index.md
-  - Deutsch:
-      - Areas: Deutsch/areas.md
-      - Bahnlinien: Deutsch/bahnlinien.md
-      - Befehle auf einen Blick: Deutsch/befehleAufEinenBlick.md
-      - Inaktivitaet: Deutsch/inaktivitaet.md
-      - Jobs: Deutsch/jobs.md
-      - Lizenzen: Deutsch/licenses.md
-      - Regeln: Deutsch/Rules.md
-      - Staedte: Deutsch/stadt.md
-      - Vertraege: Deutsch/vertraege.md
-      - Wie kann ich Starten?: Deutsch/HowToStart.md
-      - Wirtschaft: Deutsch/wirtschaft.md
-      - Zonen: Deutsch/gebiete.md
+site_description: Project documentation with Markdown.
+site_author: MkDocs Team
 
-  - English:
-      - Areas: English/areas.md
-      - Cities: English/stadt.md
-      - Contracts: English/vertraege.md
-      - Commands at a glance: English/befehleAufEinenBlick.md
-      - Economy: English/wirtschaft.md
-      - How to start?: English/HowToStart.md
-      - Inactivity: English/inaktiviaet.md
-      - Jobs: English/jobs.md
-      - Licenses: English/licenses.md
-      - Railway lines: English/bahnlinien.md
-      - Rules: English/Rules.md
-      - Zones: English/gebiete.md
+repo_url: https://github.com/Jean28518/mine_life_server_wiki
+edit_uri: ""
 
-theme: readthedocs
+theme:
+    name: mkdocs
+    highlightjs: true
+    hljs_languages:
+        - yaml
+        - django
+
+nav:
+    - Home: index.md
+   
+markdown_extensions:
+    - toc:
+        permalink: 
+    - admonition
+    - def_list
+    - mdx_gh_links:
+        user: mkdocs
+        repo: mkdocs
+
+copyright: Copyright &copy; 2014 <a href="https://twitter.com/_tomchristie">Tom Christie</a>, Maintained by the <a href="/about/release-notes/#maintenance-team">MkDocs Team</a>.
+
+
+plugins:
+- search
